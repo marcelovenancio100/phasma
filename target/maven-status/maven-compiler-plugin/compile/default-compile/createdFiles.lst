@@ -1,0 +1,8 @@
+br\com\v3s\Application.class
+br\com\v3s\configuration\WebSecurityConfiguration.class
+br\com\v3s\login\ResourceOwner.class
+br\com\v3s\configuration\AuthorizationServerConfiguration.class
+br\com\v3s\login\LoginService.class
+br\com\v3s\login\LoginRepository.class
+br\com\v3s\login\User.class
+br\com\v3s\login\UserToResourceOwner.class
